@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Devendhiran",
+    "dob": "10-06-1992",
+    "personal": {
+      "detail": {
+        "fatherName": "Ehambaram",
+        "motherName": "Maheswari",
+        "religion": "Hindu"
+      },
+      "address": {
+        "street": "Kamarajar Nagar",
+        "landmark": "Near By Vinayagar Temple",
+        "city": "Bhavani",
+        "dist": "Erode"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Umamaheswari",
+    "dob": "10-06-1994",
+    "personal": {
+      "detail": {
+        "fatherName": "Ayyal Raj",
+        "motherName": "Amutha Rani",
+        "religion": "Hindu"
+      },
+      "address": {
+        "street": "Kamarajar 1st street",
+        "landmark": "Near Dhanya Milk Shop",
+        "city": "Bhavani",
+        "dist": "Erode"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Hariharan",
+    "dob": "14-08-1995",
+    "personal": {
+      "detail": {
+        "fatherName": "Ehambaram",
+        "motherName": "Maheswari",
+        "religion": "Hindu"
+      },
+      "address": {
+        "street": "Kamarajar Nagar",
+        "landmark": "Collectorate near",
+        "city": "tirupur",
+        "dist": "Tiruppur"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Tamilarasan",
+    "dob": "14-08-1995",
+    "personal": {
+      "detail": {
+        "fatherName": "Ehambaram",
+        "motherName": "Maheswari",
+        "religion": "Hindu"
+      },
+      "address": {
+        "street": "Kamarajar Nagar",
+        "landmark": "Collectorate near",
+        "city": "tirupur",
+        "dist": "Tiruppur"
+      }
+    }
+  }
+]
